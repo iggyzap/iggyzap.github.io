@@ -6,3 +6,5 @@
     </li>
   {% endfor %}
 </ul>
+
+This page was last published at {{ "now" | date: "%Y-%m-%d %H:%M %Z"}}.

@@ -23,4 +23,6 @@ jekyll s --incremental -l -V -b /pages/iggyzap \
 
 More on `--config` parameter: I am passing 2 config files to `--config` jekyll invocation, so I can override default settings that are good for GitHub Pages publishing process while maintaining local environment publishing configuration under source control.
 
+NB: Right now README.md is not regenerated on newly published post, so I have to change it manually every time. I will be looking to solve this later.
+
 [Reference material](https://github.com/iggyzap/iggyzap.github.io)
