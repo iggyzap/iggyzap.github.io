@@ -2,3 +2,6 @@ repository: iggyzap/iggyzap.github.io
 theme: jekyll-theme-cayman
 google_analytics: UA-179095201-1
 timezone: Europe/Dublin
+utterance:
+  issue-term: pathname
+  theme: preferred-color-scheme
