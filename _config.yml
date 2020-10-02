@@ -1,5 +1,6 @@
 repository: iggyzap/iggyzap.github.io
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes@4.20.2
+
 google_analytics: 
 timezone: Europe/Dublin
 comments: 
